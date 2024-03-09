@@ -1,0 +1,9 @@
+Log:
+  ServiceName: sb-cli
+  Stat: false
+  Mode: console  # console|file
+  Encoding: plain # json|plain
+  Level: info
+  Compress: true
+  KeepDays: 10
+  Rotation: daily
